@@ -1,0 +1,42 @@
+﻿header
+{
+    text-align: center;
+}
+body {
+
+    margin: 100px 100px 150px 80px;
+    background-color: bisque;
+}
+
+article
+{
+    padding: 25px 50px 75px initial;
+}
+
+h2
+{
+    text-shadow: 1px 1px 3px;
+}
+
+p
+{
+    color: black;
+    font-size: 25px;
+
+.top
+{
+    background-color: antiquewhite;
+    color: aliceblue;
+    text-shadow: 2px 2px 5px black;
+}
+
+#line
+{
+    color: bisque;
+    font-size: 20px;
+}
+
+footer
+{
+    text-align: center;
+}
